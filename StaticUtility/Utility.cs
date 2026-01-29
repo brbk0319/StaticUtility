@@ -5,9 +5,7 @@ using System.Text;
 namespace StaticUtility
 {
     public class Utility
-    {
-        //all static methods
-        
+    {       
         public static string EnterP1(string question)
         {
             Console.WriteLine(question);
